@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Noah.iml" filepath="$PROJECT_DIR$/Noah.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libcocos2dx/libcocos2dx.iml" filepath="$PROJECT_DIR$/libcocos2dx/libcocos2dx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/noah/noah.iml" filepath="$PROJECT_DIR$/noah/noah.iml" />
+    </modules>
+  </component>
+</project>
+
